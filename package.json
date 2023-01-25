@@ -1,0 +1,19 @@
+{
+  "name": "chat-with-socketio-node",
+  "version": "1.0.0",
+  "description": "simple chat app with node socketio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joewilson27/chat-with-socketio-node.git"
+  },
+  "author": "joe wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joewilson27/chat-with-socketio-node/issues"
+  },
+  "homepage": "https://github.com/joewilson27/chat-with-socketio-node#readme"
+}
